@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+import argparse
 import re
 
 import bs4
@@ -40,21 +43,41 @@ def get_available_guids() -> dict:
     return guids
 
 
-def update_guids_database(guids: dict):
-    with open("guids.yaml", "r") as file:
-        file_guids = yaml.load(file)
+def update_guids_database():
+    print("Fetching available GUIDs from Docker Desktop release notes page...", end=" ")
+    guids = get_available_guids()
+    print(f"{len(guids)} GUIDs found!")
 
+    with open("guids.yaml", "r") as file:
+        file_guids = yaml.load(file, yaml.FullLoader)
+
+    print("Updating database...", end=" ")
     file_guids.update(guids)
 
     with open("guids.yaml", "w") as file:
         yaml.dump(file_guids, file, default_flow_style=False, sort_keys=False)
 
 
-def main():
+def main(update: bool = False):
 
-    guids = get_available_guids()
-    update_guids_database(guids=guids)
+    if update:
+        update_guids_database()
+
+    print("All done.")
 
 
 if __name__ == "__main__":
-    main()
+    arguments = argparse.ArgumentParser(
+        description="Track and list all Docker Desktop direct download links since version `4.0.0` (released on `2021-08-31`).",
+    )
+
+    arguments.add_argument(
+        "--update",
+        action="store_true",
+        default=False,
+        help="Fetch available GUIDs from Docker Desktop release notes page and update the database.",
+    )
+
+    args = arguments.parse_args()
+
+    main(update=args.update)
