@@ -7,6 +7,12 @@ import bs4
 import requests
 import yaml
 
+# TODO comment code
+# TODO need clear and atomic function
+# TODO consider and save also the release date
+# TODO generate and update "utils/resources.yaml" only for new GUIDs found
+# TODO add "synchronize" or "verify" function to test if the generated URLs point to a resource to download. Save the results in "DockerDesktop.yaml"
+
 
 def get_available_guids() -> dict:
     GUID_REGEX = r"(?:https:\/\/desktop\.docker\.com\/(?:\w*?\/){3})(\d+)"
@@ -48,20 +54,44 @@ def update_guids_database():
     guids = get_available_guids()
     print(f"{len(guids)} GUIDs found!")
 
-    with open("guids.yaml", "r") as file:
-        file_guids = yaml.load(file, yaml.FullLoader)
+    with open("utils/guids.yaml", "r") as file:
+        updated_guids = yaml.load(file, yaml.FullLoader)
 
     print("Updating database...", end=" ")
-    file_guids.update(guids)
+    updated_guids.update(guids)
 
-    with open("guids.yaml", "w") as file:
-        yaml.dump(file_guids, file, default_flow_style=False, sort_keys=False)
+    with open("utils/guids.yaml", "w") as file:
+        yaml.dump(updated_guids, file, default_flow_style=False, sort_keys=False)
+
+    return updated_guids
 
 
-def main(update: bool = False):
+def generate_urls(guids: dict) -> list:
+
+    with open("utils/urls.yaml", "r") as file:
+        urls = yaml.load(file, yaml.FullLoader)
+
+    data = {}
+    for version, guid in guids.items():
+        data.setdefault(version, dict())
+        for type, url in urls.items():
+            data[version][type] = "https://docs.docker.com" + url.format(guid=guid)
+
+    with open("utils/resources.yaml", "w") as file:
+        yaml.dump(data, file, default_flow_style=False, sort_keys=False)
+
+    return data
+
+
+def main(update: bool = False, generate: bool = False):
 
     if update:
-        update_guids_database()
+        guids = update_guids_database()
+
+    # TODO add loading of guids if no update
+
+    if generate:
+        data = generate_urls(guids=guids)
 
     print("All done.")
 
@@ -75,9 +105,16 @@ if __name__ == "__main__":
         "--update",
         action="store_true",
         default=False,
-        help="Fetch available GUIDs from Docker Desktop release notes page and update the database.",
+        help='Fetch available GUIDs from Docker Desktop release notes page and update "utils/guids.yaml".',
+    )
+
+    arguments.add_argument(
+        "--generate",
+        action="store_true",
+        default=False,
+        help='Generates all possible combinations of URLs from the GUIDs and the URLs stored in "utils" and save them into "utils/ressources.yaml"',
     )
 
     args = arguments.parse_args()
 
-    main(update=args.update)
+    main(update=args.update, generate=args.generate)

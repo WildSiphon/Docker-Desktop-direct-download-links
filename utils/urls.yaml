@@ -1,0 +1,7 @@
+Windows: /win/main/amd64/{guid}/Docker%20Desktop%20Installer.exe
+Windows ARM Beta: /win/main/arm64/{guid}/Docker%20Desktop%20Installer.exe
+Mac with Intel chip: /mac/main/amd64/{guid}/Docker.dmg
+Mac with Apple chip: /mac/main/arm64/{guid}/Docker.dmg
+Debian: /linux/main/amd64/{guid}/docker-desktop-amd64.deb
+RPM: /linux/main/amd64/{guid}/docker-desktop-x86_64.rpm
+Arch: /linux/main/amd64/{guid}/docker-desktop-x86_64.pkg.tar.zst
