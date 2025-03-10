@@ -5,6 +5,8 @@
 All **Docker Desktop** resources with versions later than **`4.0.0`** are listed in [the **Docker Desktop** release notes page](https://docs.docker.com/desktop/release-notes).
 Earlier versions are no longer available for download.
 
+**All the links to the different versions of Docker Desktop are referenced in the [DockerDesktop.yaml](DockerDesktop.yaml) file.**
+
 The direct download links are all composed as follows:
 ```
 https://desktop.docker.com/<OS>/main/<ARCHITECTURE>/<GUID>/<FILE>
@@ -19,7 +21,5 @@ https://desktop.docker.com/<OS>/main/<ARCHITECTURE>/<GUID>/<FILE>
     * `docker-desktop-x86_64.rpm` for **RPM Linux** (only `amd64`)
     * `docker-desktop-x86_64.pkg.tar.zst` for **Arch Linux** (only `amd64`)
 
-Download links are no longer referenced for some older resources, even if the links still exist.
-The goal of this project is to list all the direct download links for all the different **Docker Desktop** resources and provide a method to keep them up to date.
-
-
+Download links are not referenced for some resources, even if the links still exist.
+The [`docker_release_scraper.py`](docker_release_scraper.py) script is used to list all the direct download links for all the different **Docker Desktop** resources and provide a method to keep them up to date.

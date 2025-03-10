@@ -2,250 +2,250 @@
   Windows: https://desktop.docker.com/win/main/amd64/67817/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/67817/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/67817/Docker.dmg
-  release_date: ''
+  release_date: '2021-08-31'
 4.0.1:
   Windows: https://desktop.docker.com/win/main/amd64/68347/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/68347/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/68347/Docker.dmg
-  release_date: ''
+  release_date: '2021-09-13'
 4.1.0:
   Windows: https://desktop.docker.com/win/main/amd64/69386/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/69386/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/69386/Docker.dmg
-  release_date: ''
+  release_date: '2021-09-30'
 4.1.1:
   Windows: https://desktop.docker.com/win/main/amd64/69879/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/69879/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/69879/Docker.dmg
-  release_date: ''
+  release_date: '2021-10-12'
 4.2.0:
   Windows: https://desktop.docker.com/win/main/amd64/70708/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/70708/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/70708/Docker.dmg
-  release_date: ''
+  release_date: '2021-11-09'
 4.3.0:
   Windows: https://desktop.docker.com/win/main/amd64/71786/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/71786/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/71786/Docker.dmg
-  release_date: ''
+  release_date: '2021-12-02'
 4.3.1:
   Windows: https://desktop.docker.com/win/main/amd64/72247/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/72247/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/72247/Docker.dmg
-  release_date: ''
+  release_date: '2021-12-11'
 4.3.2:
   Windows: https://desktop.docker.com/win/main/amd64/72729/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/72729/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/72729/Docker.dmg
-  release_date: ''
+  release_date: '2021-12-21'
 4.4.2:
   Windows: https://desktop.docker.com/win/main/amd64/73305/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/73305/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/73305/Docker.dmg
-  release_date: ''
+  release_date: 22-01-13
 4.4.3:
   Windows: https://desktop.docker.com/win/main/amd64/73365/Docker%20Desktop%20Installer.exe
-  release_date: ''
+  release_date: '2022-01-14'
 4.4.4:
   Windows: https://desktop.docker.com/win/main/amd64/73704/Docker%20Desktop%20Installer.exe
-  release_date: ''
+  release_date: '2022-01-24'
 4.5.0:
   Windows: https://desktop.docker.com/win/main/amd64/74594/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/74594/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/74594/Docker.dmg
-  release_date: ''
+  release_date: '2022-02-10'
 4.5.1:
   Windows: https://desktop.docker.com/win/main/amd64/74721/Docker%20Desktop%20Installer.exe
-  release_date: ''
+  release_date: '2022-02-15'
 4.6.0:
   Windows: https://desktop.docker.com/win/main/amd64/75818/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/75818/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/75818/Docker.dmg
-  release_date: ''
+  release_date: '2022-03-14'
 4.6.1:
   Windows: https://desktop.docker.com/win/main/amd64/76265/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/76265/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/76265/Docker.dmg
-  release_date: ''
+  release_date: '2022-03-22'
 4.7.0:
   Windows: https://desktop.docker.com/win/main/amd64/77141/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/77141/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/77141/Docker.dmg
-  release_date: ''
+  release_date: '2022-04-07'
 4.7.1:
   Windows: https://desktop.docker.com/win/main/amd64/77678/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/77678/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/77678/Docker.dmg
-  release_date: ''
+  release_date: '2022-04-19'
 4.8.0:
   Windows: https://desktop.docker.com/win/main/amd64/78933/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/78933/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/78933/Docker.dmg
-  release_date: ''
+  release_date: '2022-05-06'
 4.8.1:
   Windows: https://desktop.docker.com/win/main/amd64/78998/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/78998/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/78998/Docker.dmg
-  release_date: ''
+  release_date: '2022-05-09'
 4.8.2:
   Windows: https://desktop.docker.com/win/main/amd64/79419/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/79419/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/79419/Docker.dmg
-  release_date: ''
+  release_date: '2022-05-18'
 4.9.0:
   Windows: https://desktop.docker.com/win/main/amd64/80466/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/80466/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/80466/Docker.dmg
-  release_date: ''
+  release_date: '2022-06-02'
 4.9.1:
   Windows: https://desktop.docker.com/win/main/amd64/81317/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/81317/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/81317/Docker.dmg
-  release_date: ''
+  release_date: '2022-06-16'
 4.10.0:
   Windows: https://desktop.docker.com/win/main/amd64/82025/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/82025/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/82025/Docker.dmg
-  release_date: ''
+  release_date: '2022-06-30'
 4.10.1:
   Windows: https://desktop.docker.com/win/main/amd64/82475/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/82475/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/82475/Docker.dmg
-  release_date: ''
+  release_date: '2022-07-05'
 4.11.0:
   Windows: https://desktop.docker.com/win/main/amd64/83626/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/83626/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/83626/Docker.dmg
-  release_date: ''
+  release_date: '2022-07-28'
 4.11.1:
   Windows: https://desktop.docker.com/win/main/amd64/84025/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/84025/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/84025/Docker.dmg
-  release_date: ''
+  release_date: '2022-08-05'
 4.12.0:
   Windows: https://desktop.docker.com/win/main/amd64/85629/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/85629/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/85629/Docker.dmg
-  release_date: ''
+  release_date: '2022-09-01'
 4.13.0:
   Windows: https://desktop.docker.com/win/main/amd64/89412/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/89412/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/89412/Docker.dmg
-  release_date: ''
+  release_date: '2022-10-19'
 4.13.1:
   Windows: https://desktop.docker.com/win/main/amd64/90346/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/90346/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/90346/Docker.dmg
-  release_date: ''
+  release_date: '2022-10-31'
 4.14.0:
   Windows: https://desktop.docker.com/win/main/amd64/91374/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/91374/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/91374/Docker.dmg
-  release_date: ''
+  release_date: '2022-11-10'
 4.14.1:
   Windows: https://desktop.docker.com/win/main/amd64/91661/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/91661/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/91661/Docker.dmg
-  release_date: ''
+  release_date: '2022-11-17'
 4.15.0:
   Windows: https://desktop.docker.com/win/main/amd64/93002/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/93002/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/93002/Docker.dmg
-  release_date: ''
+  release_date: '2022-12-01'
 4.16.0:
   Windows: https://desktop.docker.com/win/main/amd64/95345/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/95345/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/95345/Docker.dmg
-  release_date: ''
+  release_date: '2023-01-12'
 4.16.1:
   Windows: https://desktop.docker.com/win/main/amd64/95567/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/95567/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/95567/Docker.dmg
-  release_date: ''
+  release_date: '2023-01-13'
 4.16.2:
   Windows: https://desktop.docker.com/win/main/amd64/95914/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/95914/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/95914/Docker.dmg
-  release_date: ''
+  release_date: '2023-01-19'
 4.16.3:
   Windows: https://desktop.docker.com/win/main/amd64/96739/Docker%20Desktop%20Installer.exe
-  release_date: ''
+  release_date: '2023-01-30'
 4.17.0:
   Windows: https://desktop.docker.com/win/main/amd64/99724/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/99724/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/99724/Docker.dmg
-  release_date: ''
+  release_date: '2023-02-27'
 4.17.1:
   Windows: https://desktop.docker.com/win/main/amd64/101757/Docker%20Desktop%20Installer.exe
-  release_date: ''
+  release_date: '2023-03-20'
 4.18.0:
   Windows: https://desktop.docker.com/win/main/amd64/104112/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/104112/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/104112/Docker.dmg
-  release_date: ''
+  release_date: '2023-04-03'
 4.19.0:
   Windows: https://desktop.docker.com/win/main/amd64/106363/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/106363/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/106363/Docker.dmg
-  release_date: ''
+  release_date: '2023-04-27'
 4.20.0:
   Windows: https://desktop.docker.com/win/main/amd64/109717/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/109717/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/109717/Docker.dmg
-  release_date: ''
+  release_date: '2023-05-30'
 4.20.1:
   Windows: https://desktop.docker.com/win/main/amd64/110738/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/110738/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/110738/Docker.dmg
-  release_date: ''
+  release_date: '2023-06-05'
 4.21.0:
   Windows: https://desktop.docker.com/win/main/amd64/113844/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/113844/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/113844/Docker.dmg
-  release_date: ''
+  release_date: '2023-06-29'
 4.21.1:
   Windows: https://desktop.docker.com/win/main/amd64/114176/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/114176/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/114176/Docker.dmg
-  release_date: ''
+  release_date: '2023-07-03'
 4.22.0:
   Windows: https://desktop.docker.com/win/main/amd64/117440/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/117440/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/117440/Docker.dmg
-  release_date: ''
+  release_date: '2023-08-03'
 4.22.1:
   Windows: https://desktop.docker.com/win/main/amd64/118664/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/118664/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/118664/Docker.dmg
-  release_date: ''
+  release_date: '2023-08-24'
 4.23.0:
   Windows: https://desktop.docker.com/win/main/amd64/120376/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/120376/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/120376/Docker.dmg
-  release_date: ''
+  release_date: '2023-09-11'
 4.24.1:
   Windows: https://desktop.docker.com/win/main/amd64/123237/Docker%20Desktop%20Installer.exe
-  release_date: ''
+  release_date: '2023-10-04'
 4.24.2:
   Windows: https://desktop.docker.com/win/main/amd64/124339/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/124339/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/124339/Docker.dmg
-  release_date: ''
+  release_date: '2023-10-12'
 4.25.0:
   Windows: https://desktop.docker.com/win/main/amd64/126437/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/126437/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/126437/Docker.dmg
-  release_date: ''
+  release_date: '2023-10-26'
 4.25.1:
   Windows: https://desktop.docker.com/win/main/amd64/128006/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/128006/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/128006/Docker.dmg
-  release_date: ''
+  release_date: '2023-11-13'
 4.25.2:
   Windows: https://desktop.docker.com/win/main/amd64/129061/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/129061/Docker.dmg
   Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/129061/Docker.dmg
-  release_date: ''
+  release_date: '2023-11-21'
 4.29.0:
   Windows: https://desktop.docker.com/win/main/amd64/145265/Docker%20Desktop%20Installer.exe
   Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/145265/Docker.dmg
