@@ -8,6 +8,9 @@ import requests
 import yaml
 from tqdm import tqdm
 
+# TODO fetch checksums
+# TODO add missing old GUIDs
+
 
 def load_yaml_file(filepath: str) -> dict:
     """
