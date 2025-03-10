@@ -1,83 +1,249 @@
-4.0.0: 67817
-4.0.1: 68347
-4.1.0: 69386
-4.1.1: 69879
-4.2.0: 70708
-4.3.0: 71786
-4.3.1: 72247
-4.3.2: 72729
-4.4.2: 73305
-4.4.3: 73365
-4.4.4: 73704
-4.5.0: 74594
-4.5.1: 74721
-4.6.0: 75818
-4.6.1: 76265
-4.7.0: 77141
-4.7.1: 77678
-4.8.0: 78933
-4.8.1: 78998
-4.8.2: 79419
-4.9.0: 80466
-4.9.1: 81317
-4.10.0: 82025
-4.10.1: 82475
-4.11.0: 83626
-4.11.1: 84025
-4.12.0: 85629
-4.13.0: 89412
-4.13.1: 90346
-4.14.0: 91374
-4.14.1: 91661
-4.15.0: 93002
-4.16.0: 95345
-4.16.1: 95567
-4.16.2: 95914
-4.16.3: 96739
-4.17.0: 99724
-4.17.1: 101757
-4.18.0: 104112
-4.19.0: 106363
-4.20.0: 109717
-4.20.1: 110738
-4.21.0: 113844
-4.21.1: 114176
-4.22.0: 117440
-4.22.1: 118664
-4.23.0: 120376
-4.24.0: null
-4.24.1: 123237
-4.24.2: 124339
-4.25.0: 126437
-4.25.1: 128006
-4.25.2: 129061
-4.26.0: null
-4.26.1: null
-4.27.0: null
-4.27.1: null
-4.27.2: null
-4.28.0: null
-4.29.0: 145265
-4.30.0: 149282
-4.31.0: 153195
-4.31.1: 153621
-4.32.0: 157355
-4.32.1: 179691
-4.33.0: 160616
-4.33.1: 161083
-4.33.2: 179689
-4.34.0: 165256
-4.34.1: 166053
-4.34.2: 167172
-4.34.3: 170107
-4.34.4: 179671
-4.35.0: 172550
-4.35.1: 173168
-4.35.2: 179656
-4.36.0: 175267
-4.36.1: 179655
-4.37.0: 178034
-4.37.1: 178610
-4.37.2: 179585
-4.38.0: 181591
-4.39.0: 184744
+4.0.0:
+  guid: 67817
+  release_date: ''
+4.0.1:
+  guid: 68347
+  release_date: ''
+4.1.0:
+  guid: 69386
+  release_date: ''
+4.1.1:
+  guid: 69879
+  release_date: ''
+4.2.0:
+  guid: 70708
+  release_date: ''
+4.3.0:
+  guid: 71786
+  release_date: ''
+4.3.1:
+  guid: 72247
+  release_date: ''
+4.3.2:
+  guid: 72729
+  release_date: ''
+4.4.2:
+  guid: 73305
+  release_date: ''
+4.4.3:
+  guid: 73365
+  release_date: ''
+4.4.4:
+  guid: 73704
+  release_date: ''
+4.5.0:
+  guid: 74594
+  release_date: ''
+4.5.1:
+  guid: 74721
+  release_date: ''
+4.6.0:
+  guid: 75818
+  release_date: ''
+4.6.1:
+  guid: 76265
+  release_date: ''
+4.7.0:
+  guid: 77141
+  release_date: ''
+4.7.1:
+  guid: 77678
+  release_date: ''
+4.8.0:
+  guid: 78933
+  release_date: ''
+4.8.1:
+  guid: 78998
+  release_date: ''
+4.8.2:
+  guid: 79419
+  release_date: ''
+4.9.0:
+  guid: 80466
+  release_date: ''
+4.9.1:
+  guid: 81317
+  release_date: ''
+4.10.0:
+  guid: 82025
+  release_date: ''
+4.10.1:
+  guid: 82475
+  release_date: ''
+4.11.0:
+  guid: 83626
+  release_date: ''
+4.11.1:
+  guid: 84025
+  release_date: ''
+4.12.0:
+  guid: 85629
+  release_date: ''
+4.13.0:
+  guid: 89412
+  release_date: ''
+4.13.1:
+  guid: 90346
+  release_date: ''
+4.14.0:
+  guid: 91374
+  release_date: ''
+4.14.1:
+  guid: 91661
+  release_date: ''
+4.15.0:
+  guid: 93002
+  release_date: ''
+4.16.0:
+  guid: 95345
+  release_date: ''
+4.16.1:
+  guid: 95567
+  release_date: ''
+4.16.2:
+  guid: 95914
+  release_date: ''
+4.16.3:
+  guid: 96739
+  release_date: ''
+4.17.0:
+  guid: 99724
+  release_date: ''
+4.17.1:
+  guid: 101757
+  release_date: ''
+4.18.0:
+  guid: 104112
+  release_date: ''
+4.19.0:
+  guid: 106363
+  release_date: ''
+4.20.0:
+  guid: 109717
+  release_date: ''
+4.20.1:
+  guid: 110738
+  release_date: ''
+4.21.0:
+  guid: 113844
+  release_date: ''
+4.21.1:
+  guid: 114176
+  release_date: ''
+4.22.0:
+  guid: 117440
+  release_date: ''
+4.22.1:
+  guid: 118664
+  release_date: ''
+4.23.0:
+  guid: 120376
+  release_date: ''
+4.24.0:
+  guid: null
+  release_date: ''
+4.24.1:
+  guid: 123237
+  release_date: ''
+4.24.2:
+  guid: 124339
+  release_date: ''
+4.25.0:
+  guid: 126437
+  release_date: ''
+4.25.1:
+  guid: 128006
+  release_date: ''
+4.25.2:
+  guid: 129061
+  release_date: ''
+4.26.0:
+  guid: null
+  release_date: ''
+4.26.1:
+  guid: null
+  release_date: ''
+4.27.0:
+  guid: null
+  release_date: ''
+4.27.1:
+  guid: null
+  release_date: ''
+4.27.2:
+  guid: null
+  release_date: ''
+4.28.0:
+  guid: null
+  release_date: ''
+4.29.0:
+  guid: 145265
+  release_date: '2024-04-08'
+4.30.0:
+  guid: 149282
+  release_date: '2024-05-06'
+4.31.0:
+  guid: 153195
+  release_date: '2024-06-06'
+4.31.1:
+  guid: 153621
+  release_date: '2024-06-10'
+4.32.0:
+  guid: 157355
+  release_date: '2024-07-04'
+4.32.1:
+  guid: 179691
+  release_date: '2025-01-09'
+4.33.0:
+  guid: 160616
+  release_date: '2024-07-25'
+4.33.1:
+  guid: 161083
+  release_date: '2024-07-31'
+4.33.2:
+  guid: 179689
+  release_date: '2025-01-09'
+4.34.0:
+  guid: 165256
+  release_date: '2024-08-29'
+4.34.1:
+  guid: 166053
+  release_date: '2024-09-05'
+4.34.2:
+  guid: 167172
+  release_date: '2024-09-12'
+4.34.3:
+  guid: 170107
+  release_date: '2024-10-09'
+4.34.4:
+  guid: 179671
+  release_date: '2025-01-09'
+4.35.0:
+  guid: 172550
+  release_date: '2024-10-24'
+4.35.1:
+  guid: 173168
+  release_date: '2024-10-30'
+4.35.2:
+  guid: 179656
+  release_date: '2025-01-09'
+4.36.0:
+  guid: 175267
+  release_date: '2024-11-18'
+4.36.1:
+  guid: 179655
+  release_date: '2025-01-09'
+4.37.0:
+  guid: 178034
+  release_date: '2024-12-12'
+4.37.1:
+  guid: 178610
+  release_date: '2024-12-17'
+4.37.2:
+  guid: 179585
+  release_date: '2025-01-09'
+4.38.0:
+  guid: 181591
+  release_date: '2025-01-30'
+4.39.0:
+  guid: 184744
+  release_date: '2025-03-05'
