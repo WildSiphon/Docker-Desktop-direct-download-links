@@ -407,3 +407,12 @@
   RPM: https://desktop.docker.com/linux/main/amd64/184744/docker-desktop-x86_64.rpm
   Arch: https://desktop.docker.com/linux/main/amd64/184744/docker-desktop-x86_64.pkg.tar.zst
   release_date: '2025-03-05'
+4.40.0:
+  Windows: https://desktop.docker.com/win/main/amd64/187762/Docker%20Desktop%20Installer.exe
+  Windows ARM Beta: https://desktop.docker.com/win/main/arm64/187762/Docker%20Desktop%20Installer.exe
+  Mac with Intel chip: https://desktop.docker.com/mac/main/amd64/187762/Docker.dmg
+  Mac with Apple chip: https://desktop.docker.com/mac/main/arm64/187762/Docker.dmg
+  Debian: https://desktop.docker.com/linux/main/amd64/187762/docker-desktop-amd64.deb
+  RPM: https://desktop.docker.com/linux/main/amd64/187762/docker-desktop-x86_64.rpm
+  Arch: https://desktop.docker.com/linux/main/amd64/187762/docker-desktop-x86_64.pkg.tar.zst
+  release_date: '2025-03-31'
