@@ -5,7 +5,7 @@
 All **Docker Desktop** resources with versions later than **`4.0.0`** are listed in the [**Docker Desktop** release notes page](https://docs.docker.com/desktop/release-notes).
 Earlier versions are no longer available for download.
 
-**All the links to the different versions of Docker Desktop are referenced in the [DockerDesktop.yaml](DockerDesktop.yaml) file.**
+**All the links to the different versions of Docker Desktop are referenced in the [DockerDesktop.yaml](DockerDesktop.yaml) or in the [associated gist](https://gist.github.com/WildSiphon/d1aadf81c28ba05269ba639cbfcca2e0).**
 
 The direct download links are all composed as follows:
 ```
