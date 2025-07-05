@@ -256,3 +256,18 @@
 4.41.1:
   guid: 191279
   release_date: '2025-04-30'
+4.41.2:
+  guid: 191736
+  release_date: '2025-05-06'
+4.42.0:
+  guid: 195023
+  release_date: '2025-06-04'
+4.42.1:
+  guid: 196648
+  release_date: '2025-06-18'
+4.43.0:
+  guid: 198134
+  release_date: '2025-07-03'
+4.43.1:
+  guid: 198352
+  release_date: '2025-07-04'
